@@ -1,4 +1,7 @@
+
 # Informe de Ventas (proyecto de práctica)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Pequeño proyecto de práctica en Python: leo un `ventas.csv` (fecha, producto, cantidad, precio), calculo ventas por mes, el producto más vendido y el de mayores ingresos, y guardo dos gráficos.
 

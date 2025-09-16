@@ -21,4 +21,9 @@ Pequeño proyecto de práctica en Python: leo un `ventas.csv` (fecha, producto, 
 
 - `ventas_por_mes.png`
 - `ventas_top5_productos.png`
-- `informe.txt` (opcional)
+- `informe.txt`
+
+## Ejemplos de salidas
+![Ventas por mes](docs/ventas_por_mes.png)
+![Top 5 por ingresos](docs/ventas_top5_productos.png)
+

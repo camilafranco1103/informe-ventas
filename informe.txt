@@ -1,0 +1,31 @@
+=== Informe de Ventas ===
+
+Ventas totales por mes (ARS):
+fecha
+2025-01-31    165.0
+2025-02-28    257.0
+2025-03-31    198.0
+2025-04-30    184.0
+Freq: ME
+
+Producto más vendido (por cantidad):
+producto
+D    17
+A    11
+B     9
+C     9
+E     7
+TOP: D con 17 unidades
+
+Producto con mayores ingresos:
+producto
+D    204.0
+B    180.0
+E    175.0
+C    135.0
+A    110.0
+TOP: D con ingresos = 204.00
+
+Gráficos generados:
+- ventas_por_mes.png
+- ventas_top5_productos.png

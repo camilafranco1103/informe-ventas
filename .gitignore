@@ -15,7 +15,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Salidas del proyecto
-ventas_por_mes.png
-ventas_top5_productos.png
-informe.txt
+
+
